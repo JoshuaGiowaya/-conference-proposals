@@ -1,1 +1,1 @@
-# -conference-proposals
+# Conference Proposals
