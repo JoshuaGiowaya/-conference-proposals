@@ -1,7 +1,7 @@
 # SVG Vs Everybody
 
 ### Abstract
-SVG may have been overlooked in the past due to poor browser support, however, SVG1.1 is now fully supported in all evergreen browsers. SVG are crisp on any screen, responsive by nature and is seriously cool, with nifty features like grouping, stoke and fill, and filters. Oh and the ability to easy animate, Who doesn’t love a good SVG animation?
+SVG may have been overlooked in the past due to poor browser support, however, SVG1.1 is now fully supported in all evergreen browsers. SVG are crisp on any screen, responsive by nature and is seriously cool, with nifty features like grouping, stoke and fill, and filters. Oh and the ability to easily animate, Who doesn't love a good SVG animation?
 
 Even if you’ve never used SVG before, come learn how to get going with this amazing element. We’ll see what all those features actually do, we’ll look at how all that code in a SVG file draws a shape, and best practices for formatting you SVG code.
 
